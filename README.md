@@ -1,6 +1,37 @@
 # Log Book  -- Learninglearning
 A log and overview of my progress as I learn web dev.
 
+# 24/11/2019
+THREE months into my web learning.
+
+I have been learning and building conistently. *Again*, I have a lot of my stuff locally (and regularly using git) but haven't got into the habit of uploading to github. I'm getting a new laptop soon so all is about to change. I have basically finished The Odin Project (having skipped a couple of little things including testing) which is quite cool but I immediately started a project for a friend (and myself) so I didn't really realise. It was a milestone I hopped to reach by the end of month 3 so well done me.
+
+## The third month:
+
+I ended up learning moree back-end stuff this month (as well as plenty more FE) in an effort to round out my overview of the fullstack world. I am happy to say that I am now much less frequently mystified by the random articles/code  I read. Very reassuring stuff. I  also started off the month consolidating various bits of front-end knowledge but then veered off and didn't practise much as I was having fun with Express. I finished the month building a little drawing game that I am quite pleased with and plan to expand. (I managed to write a smoothing function for canvas drawing with actual maths. - finally that degree is coming in handy)
+
+### What I learned:
+
+- much more flexbox and grid. Some bootstrap
+- lots of fun CSS stuff
+- some Sass (SCSS)
+- Express basics and some - (see my CRUD messageboard)
+- PassportJS (local)
+- MongoDB (Mongo Atlas)
+- canvasAPI (see my squiggle-game)
+- lots of minor improvements across the board
+
+
+### Resources used:
+
+- Misc. articles/blogs
+- The Odin Project
+  - to the end
+- MDN tutorials (Express)
+- Youtube (Academind, Layout Land)
+- Documentation (e.g .Express, PassportJS, Bootstrap etc)
+
+
 # 14/10/2019
 TWO months into my web development learning. 
 
@@ -28,8 +59,8 @@ Happy with my progess so far. My focus on getting half decent at JS has lead to 
 
 ### What I learned:
 - Plenty more Javascript concepts..
-- - First look at more concepts:
-- - Promises, Fetch API, Classes, Objects, Export/Import, Modules, High order array methods (map,filter, reduce..)
+  - First look at more concepts:
+   - Promises, Fetch API, Classes, Objects, Export/Import, Modules, High order array methods (map,filter, reduce..)
 ..etc (some better than others).
 - ReactJS (decent grasp of basics but I need practice building things)
 - Git 
@@ -37,19 +68,19 @@ Happy with my progess so far. My focus on getting half decent at JS has lead to 
 - npm
 - Webpack (not really used it)
 - (started using some handy tools -Prettier,ESlint, live server)
-- I used a couple of external APIs in small projects (weather, ongoing word project)
+- I used a couple of external APIs in small projects (weather, dictionary in ongoing word project)
 - I used a library (ascii converter project)
 
 ### Resources used:
 - The Odin Project:
-- -Web Dev 101 (majority - left a few bits out)
-- - Javascript (majority - left a few bits out)
-- - Node (very start - no express yet.. I stopped in favour of deepening my front-end knowledge for now - mostly React)
+  - Web Dev 101 (majority - left a few bits out)
+  - Javascript (majority - left a few bits out)
+  - Node (very start - no express yet.. I stopped in favour of deepening my front-end knowledge for now - mostly React)
 - Youtube (mostly Mosh, NetNinja, Traversy)
 - FreeCodeCamp:
-- - Responsive Web Design Certification 
-- - Javascript Algorithms And Data Structures Certification
-- - Front End Libraries Certification (didn't do redux)
+  - Responsive Web Design Certification 
+  - Javascript Algorithms And Data Structures Certification
+  - Front End Libraries Certification (didn't do redux)
 - CodeAcademy (React I&II)
 - W3Schools
 - javascript.info
@@ -83,5 +114,5 @@ I started from scratch so I had to get to grips with the fundamentals.
 
 
 # 03/10/2019
-I've created this repo as a place to reflect on projects as a make them. I intend to go into some detail about particular bits of the code that I found tricky or time-consuming as well as more general feelings about my progress on the whole.
+I've created this repo as a place to reflect on my progress and projects as a make them. I intend to go into some detail about particular bits of the code that I found tricky or time-consuming as well as more general feelings about my progress on the whole.
 
