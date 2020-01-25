@@ -1,10 +1,29 @@
 # Log Book  -- Learninglearning
 A log and overview of my progress as I learn web dev.
 
+
+# 25/01/2020
+FOUR months in.
+
+I had to take some time off for various reasons. I kept reading and building but at a significantly reduced rate. In any case, I'm back at it and it has solidified the idea of this being a marathon rather than a a sprint. 
+I've been focusing on front-end stuff recently as I build my portfolio and other predominantly front-end pages. I'm using npm scripts to make everything as smooth as possible.
+I have a photography portfolio project for a client on the go which is exciting. html/scss/js.
+I built a little karaoke webapp which uses a couple of APIs to get the lyrics and music video for a given song. React (create-react-app I think)
+The new laptop (and tablet as a second monitor) is working nicely.
+
+### What I learned:
+
+- SCSS project architecture for an organised big(ish) site
+- more fancyish CSS stuff (and some SVG)
+- the value of designing before writing (and rewriting) lots of code
+- some API documentation is better than others.
+
+
 # 24/11/2019
 THREE months into my web learning.
 
 I have been learning and building conistently. *Again*, I have a lot of my stuff locally (and regularly using git) but haven't got into the habit of uploading to github. I'm getting a new laptop soon so all is about to change. I have basically finished The Odin Project (having skipped a couple of little things including testing) which is quite cool but I immediately started a project for a friend (and myself) so I didn't really realise. It was a milestone I hopped to reach by the end of month 3 so well done me.
+
 
 ## The third month:
 
