@@ -6,9 +6,13 @@ A log and overview of my progress as I learn web dev.
 FOUR months in.
 
 I had to take some time off for various reasons. I kept reading and building but at a significantly reduced rate. In any case, I'm back at it and it has solidified the idea of this being a marathon rather than a a sprint. 
+
 I've been focusing on front-end stuff recently as I build my portfolio and other predominantly front-end pages. I'm using npm scripts to make everything as smooth as possible.
+
 I have a photography portfolio project for a client on the go which is exciting. html/scss/js.
+
 I built a little karaoke webapp which uses a couple of APIs to get the lyrics and music video for a given song. React (create-react-app I think)
+
 The new laptop (and tablet as a second monitor) is working nicely.
 
 ### What I learned:
