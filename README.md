@@ -1,9 +1,27 @@
 # Log Book  -- Learninglearning
 A log and overview of my progress as I learn web dev.
+# 21/02/2020
+
+I've been working on four projects:
+- my portfolio
+- the squiggle game
+- LGAP
+- vocabify
+
+I wont go into too much detail here about their content. Some notes on what I've noticed and used in some or all of the projects: I structed my scss using a variant of the 7-1 architecture which was handy - I will use it again in future larger projects. 
+
+I used a fairly complicated webpack build (minorly tweaked boilerplate). I should spend some more time learning about it - it feels like a bit of a mess still (also, investigating npm scripts..). 
+
+I nearly finished a pretty nice looking front-end site (LGAP). learning about meta tags, favicons etc.
+
+I am building a MERN application which is going pretty well. I need to learn modern React (with hooks etc).
+
+I need to learn more design patterns etc, my code is very unmodular with lots of global variables floating around which is now beginning to look really ugly and messy to me.
+
+I'm using netlify and heroku for (free tier) hosting currently.
 
 
 # 25/01/2020
-FOUR months in.
 
 I had to take some time off for various reasons. I kept reading and building but at a significantly reduced rate. In any case, I'm back at it and it has solidified the idea of this being a marathon rather than a a sprint. 
 
