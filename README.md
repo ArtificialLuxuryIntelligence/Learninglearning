@@ -1,5 +1,18 @@
 # Log Book  -- Learninglearning
 A log and overview of my progress as I learn web dev.
+
+# 31/03/2020
+
+I have read most of the first edition of YDKJS (https://github.com/getify/You-Dont-Know-JS/blob/1st-ed/README.md) which has rounded out some of my knowledge of JS although it lacks explanations of many ES6 features I have been using. I'll be sure to have look at the second edition when it is finished.
+
+I spent a bit of time playing with the Tonejs libary. It's a library for making sound in the browser. I have a couple of mini projects on Codepen.
+
+My vocabify MERN project is mostly finished. I'll spend a bit of time in the coming days/weeks finishing up some of the projects I've got on the go so that I can move on to other things (with better code). I may come back to these early projects one day and see how much I can improve the code. 
+
+It's been a bit of a slow month and the covid19 pandemic has thrown my plans to find a job and relocate soon into mild disarry. I'll start my jobhunt soon and in the meantime keeping improving and building.
+
+
+
 # 21/02/2020
 
 I've been working on four projects:
