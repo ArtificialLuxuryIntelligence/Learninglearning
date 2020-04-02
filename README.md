@@ -7,6 +7,8 @@ I have read most of the first edition of YDKJS (https://github.com/getify/You-Do
 
 I spent a bit of time playing with the Tonejs libary. It's a library for making sound in the browser. I have a couple of mini projects on Codepen.
 
+I've started using the debug in chrome/VSCode which is very handy.
+
 My vocabify MERN project is mostly finished. I'll spend a bit of time in the coming days/weeks finishing up some of the projects I've got on the go so that I can move on to other things (with better code). I may come back to these early projects one day and see how much I can improve the code. 
 
 It's been a bit of a slow month and the covid19 pandemic has thrown my plans to find a job and relocate soon into mild disarry. I'll start my jobhunt soon and in the meantime keeping improving and building.
