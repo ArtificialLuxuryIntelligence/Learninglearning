@@ -1,6 +1,18 @@
 # Log Book  -- Learninglearning
 A log and overview of my progress as I learn web dev.
 
+# 9/05/2020
+
+My three main projects (LGAP, Vocabify, Squiggler) and portfolio page are all pretty much finished. I've been learning more about React and am resisting the urge to go back over the Vocabify project to refactor all the code with all of the new things I've learned. I started the project right as I was learning React and wanted to work on something that motivated me. This definitely worked but I probably ended up spending too much time tweaking it using more slightly incomplete knowledge than was necessary (as well as a patchwork of newer stuff).
+
+In that project for example, I don't use Context (but do use React Router and render props to make a ProtectedRoute component). I also don't use Refs but do do a bit dubious DOM manipulation. I do however, use a few different lifecycle methods and use JWT authentication. I also realise that I could have used destructuring a lot more to make the code a little tidier. Other that react, there are plenty of improvements I could make serverside but again, the site works pretty well and my time is probably best spent learning new things for now rather than endless tweaking.
+
+I'm currently learning modern React (16.8+ - Hooks etc) and  will eventually update the Vocabify code but before then, just for you dear reader, I will tidy up what I have done and hope it's good enough - it is essentially my first ReactJS app that got a bit out of control and became a bit of a labour of love. 
+
+A slightly more rambling entry this time. It reflects my slightly meandering approach to studying and building of late. (blame to covid isolation). Time to regroup, take stock of all I've achieved and make concrete plans.
+
+
+
 # 31/03/2020
 
 I have read most of the first edition of YDKJS (https://github.com/getify/You-Dont-Know-JS/blob/1st-ed/README.md) which has rounded out some of my knowledge of JS although it lacks explanations of many ES6 features I have been using. I'll be sure to have look at the second edition when it is finished.
